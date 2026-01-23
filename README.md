@@ -63,7 +63,9 @@ The translation effort for Prism Launcher is hosted on [Weblate](https://hosted.
 
 If you want to build Prism Launcher yourself, check the [build instructions](https://prismlauncher.org/wiki/development/build-instructions).
 
-For information on how to create a distributable application package after building, see [BUILD_AND_INSTALL.md](BUILD_AND_INSTALL.md).
+For information on how to create a distributable application package after building locally, see [BUILD_AND_INSTALL.md](BUILD_AND_INSTALL.md).
+
+To download pre-built binaries from GitHub Actions workflows, see [DOWNLOADING_BUILDS.md](DOWNLOADING_BUILDS.md).
 
 ## Sponsors & Partners
 
