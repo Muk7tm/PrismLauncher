@@ -27,6 +27,7 @@ compile_commands.json
 # Build dirs
 build
 /build-*
+test_build
 
 # Install dirs
 install
@@ -46,6 +47,9 @@ secrets/
 run/
 
 .cache/
+
+# CodeQL artifacts
+_codeql_detected_source_root
 
 # Nix/NixOS
 .direnv/
