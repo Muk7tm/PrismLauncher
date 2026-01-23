@@ -29,7 +29,7 @@ You can also find builds directly from the Actions tab:
 
 For the latest development build from the `develop` branch, you can use nightly.link:
 
-**Direct link:** https://nightly.link/PrismLauncher/PrismLauncher/workflows/build/develop
+**Direct Link:** https://nightly.link/PrismLauncher/PrismLauncher/workflows/build/develop
 
 This provides direct download links for the latest successful build without needing to navigate through GitHub's UI.
 
@@ -67,10 +67,10 @@ After a successful build, the following artifacts are typically available:
   - Run the installer to install Prism Launcher system-wide
 
 Windows builds are available in multiple variants:
-- **MinGW-w64**: Built with MinGW compiler (x86_64)
-- **MinGW-arm64**: Built with MinGW compiler (ARM64)
-- **MSVC**: Built with Microsoft Visual C++ compiler (x86_64)
-- **MSVC-arm64**: Built with Microsoft Visual C++ compiler (ARM64)
+- **MinGW (x86_64)**: Built with MinGW compiler (x86_64)
+- **MinGW (ARM64)**: Built with MinGW compiler (ARM64)
+- **MSVC (x86_64)**: Built with Microsoft Visual C++ compiler (x86_64)
+- **MSVC (ARM64)**: Built with Microsoft Visual C++ compiler (ARM64)
 
 ### macOS
 
@@ -156,6 +156,6 @@ Some security features may be limited for fork PRs:
 ## Additional Resources
 
 - [Official Downloads](https://prismlauncher.org/download) - Stable releases and distribution packages
-- [Build Instructions](BUILD_AND_INSTALL.md) - For building from source locally
+- [Build Instructions](./BUILD_AND_INSTALL.md) - For building from source locally
 - [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) - View all workflow runs
 - [nightly.link](https://nightly.link/PrismLauncher/PrismLauncher/workflows/build/develop) - Latest develop builds
